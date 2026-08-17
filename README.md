@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 # `AhidFattah`
 
@@ -10,28 +10,20 @@
 
 ---
 
+<div align="center">
+
 ## `01` — WHO AM I
 
 ```python
 class AhidFattah:
 
     alias = "AhidFattah"
-    role = [
-        "Informatics Student",
-        "Web3 Explorer",
-        
-    ]
+
+    role = [ "Informatics Student", "Web3 Explorer" ]
 
     creed = "Learn relentlessly. Build creatively."
 
-    interests = [
-        "Artificial Intelligence",
-        "Software Development",
-        "Blockchain",
-        "Web3",
-        "UI/UX",
-        
-    ]
+    interests = [ "Artificial Intelligence", "Software Development", "Blockchain", "Web3", "UI/UX", ]
 
     current_mode = "learning → building → experimenting"
 
@@ -39,22 +31,30 @@ class AhidFattah:
         return "Ideas are cheap. Building makes them real."
 ```
 
+</div>
+
 ---
+
+<div align="center">
 
 ## `02` — ARMOUR / TECH STACK
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,git,github,vscode,figma,laravel" />
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql,git,github,vscode,laravel" />
 </p>
 
-<p align="center">
-
-`Python` `Java` `JavaScript` `HTML` `CSS` `MySQL`
-`Git` `GitHub` `Laravel` `Figma` `AI` `Web3`
+<p>
+    
+`Python` `Java` `JavaScript` `HTML` `CSS` `MySQL`<br>
+`Git` `GitHub` `Laravel` `AI` `Web3`
 
 </p>
+
+</div>
 
 ---
+
+<div align="center">
 
 ## `03` — CURRENTLY EXPLORING
 
@@ -65,12 +65,15 @@ class AhidFattah:
 │  WEB3            ████████████████░░   EXPLORING              │
 │  SOFTWARE        █████████████████░   BUILDING               │
 │  UI/UX           █████████████░░░░░   LEARNING               │
-│  CONTENT         ████████████████░░   CREATING               │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
 
+</div>
+
 ---
+
+<div align="center">
 
 ## `04` — BUILD LOG
 
@@ -93,17 +96,22 @@ AI / Web3 / Blockchain / Software / UI-UX / Content
 
 $ status
 
-[+] Learning
-[+] Building
-[+] Creating
-[+] Exploring
+Learning
+Building
+Creating
+Exploring
 ```
+
+</div>
 
 ---
 
+<div align="center">
+
 ## `05` — WEB3 / DIGITAL LAB
 
-I'm interested in the intersection between **technology, decentralized systems, digital ownership, and online communities**.
+I'm interested in the intersection between
+**technology, decentralized systems, digital ownership, and online communities**.
 
 ```text
 BLOCKCHAIN
@@ -113,51 +121,66 @@ COMMUNITY
 NEW WAYS TO BUILD
 ```
 
-Exploring:
+### Exploring
 
-* Blockchain & crypto ecosystems
-* NFT & digital ownership
-* Web3 communities
-* AI-powered tools
-* On-chain experiments
-* Emerging protocols & technologies
+`Blockchain & Crypto Ecosystems`
+`NFT & Digital Ownership`
+`Web3 Communities`
+`AI-powered Tools`
+`On-chain Experiments`
+`Emerging Protocols & Technologies`
+
+</div>
 
 ---
 
+<div align="center">
 
 ## `07` — GITHUB ACTIVITY
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=ahidfattah&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahidfattah&theme=transparent&hide_border=true" />
 </p>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## `08` — CONTRIBUTION MATRIX
 
-<p align="center">
+<p>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahidfattah&theme=github-compact&hide_border=true" />
 </p>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## `09` — CONNECT
 
-<p align="center">
+<p>
 
 <a href="https://github.com/ahidfattah">
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+  
 
 <a href="https://x.com/hayamhago">
 <img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </p>
+
+</div>
 
 ---
 
@@ -167,6 +190,8 @@ Exploring:
 
 <sub>404 — limits not found.</sub>
 
-</div>
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:111827&height=100&section=footer"/>
+
+</div>
