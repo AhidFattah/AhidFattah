@@ -1,16 +1,44 @@
 ## Hi there 👋
 
-<!--
-**AhidFattah/AhidFattah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# AhidFattah
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `BUILD • SHIP • EXPERIMENT`
+
+</div>
+
+---
+
+> "Always learning. Always building. Always exploring."
+
+---
+
+<div align="center">
+
+## ⚡ WHO AM I
+
+</div>
+
+```python
+class Atosman:
+
+    alias = "ATOSMAN"
+    role = "Informatics Student & Content Creator"
+
+    creed = "Learn relentlessly. Build creatively."
+
+    weapons = [
+        "Python",
+        "Java",
+        "JavaScript",
+        "AI",
+        "Web3",
+        "Blockchain",
+        "UI/UX"
+    ]
+
+    sailing = "from ideas → experiments → real projects"
+
+    def philosophy(self):
+        return "Build first. Learn from everything."
