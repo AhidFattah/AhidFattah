@@ -1,8 +1,8 @@
 <div align="center">
 
-# `ATOSMAN`
+# `AhidFattah`
 
-### `INFORMATICS STUDENT • BUILDER • WEB3 EXPLORER • CREATOR`
+### `INFORMATICS STUDENT • BUILDER • WEB3 EXPLORER`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:3b82f6&height=180&section=header&text=BUILD.%20SHIP.%20REPEAT.&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
@@ -13,13 +13,13 @@
 ## `01` — WHO AM I
 
 ```python
-class Atosman:
+class AhidFattah:
 
-    alias = "ATOSMAN"
+    alias = "AhidFattah"
     role = [
         "Informatics Student",
         "Web3 Explorer",
-        "UGC Creator"
+        
     ]
 
     creed = "Learn relentlessly. Build creatively."
@@ -30,7 +30,7 @@ class Atosman:
         "Blockchain",
         "Web3",
         "UI/UX",
-        "Content Creation"
+        
     ]
 
     current_mode = "learning → building → experimenting"
@@ -62,10 +62,10 @@ class Atosman:
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
 │  AI              ███████████████░░░   EXPERIMENTING          │
-│  WEB3            ████████████████░░   EXPLORING             │
-│  SOFTWARE        █████████████████░   BUILDING              │
-│  UI/UX           █████████████░░░░░   LEARNING              │
-│  CONTENT         ████████████████░░   CREATING              │
+│  WEB3            ████████████████░░   EXPLORING              │
+│  SOFTWARE        █████████████████░   BUILDING               │
+│  UI/UX           █████████████░░░░░   LEARNING               │
+│  CONTENT         ████████████████░░   CREATING               │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -79,7 +79,7 @@ class Atosman:
 ```bash
 $ whoami
 
-atosman
+AhidFattah
 
 $ mission
 
@@ -107,13 +107,9 @@ I'm interested in the intersection between **technology, decentralized systems, 
 
 ```text
 BLOCKCHAIN
-    ↓
 WEB3
-    ↓
 AI × DIGITAL PRODUCTS
-    ↓
 COMMUNITY
-    ↓
 NEW WAYS TO BUILD
 ```
 
@@ -128,21 +124,6 @@ Exploring:
 
 ---
 
-## `06` — CREATOR MODE
-
-```text
-CONTENT
-   │
-   ├── UGC
-   ├── Storytelling
-   ├── Visual Content
-   ├── Tech Content
-   └── Digital Trends
-```
-
-I enjoy turning technical ideas and digital products into content that is **simple, visual, and easy to understand**.
-
----
 
 ## `07` — GITHUB ACTIVITY
 
