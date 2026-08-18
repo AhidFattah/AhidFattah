@@ -4,7 +4,7 @@
 
 ### `INFORMATICS STUDENT • BUILDER • WEB3 EXPLORER`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:3b82f6&height=180&section=header&text=BUILD.%20SHIP.%20REPEAT.&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FFE600,100:FFB800&text=BUILD.%20SHIP.%20REPEAT&fontColor=ffffff&fontSize=38&textBg=false&descAlign=59&animation=twinkling&fontAlignY=40"/>
 
 </div>
 
